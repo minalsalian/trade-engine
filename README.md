@@ -29,17 +29,17 @@ Trade Engine enables users to monitor stock prices in real time, analyze market 
 ⚙️ React.js  
 ⚙️ Webpack  
 ⚙️ HTML, CSS, JavaScript  
-⚙️ Chart.js / Recharts  
+⚙️ Chart.js 
 
-### Backend (Optional)
-⚙️ Node.js / Spring Boot / Flask  
-⚙️ REST APIs / WebSockets  
+### Backend 
+⚙️ Node.js
+⚙️ REST APIs  
 
 ### Database
-⚙️ MongoDB / MySQL / PostgreSQL  
+⚙️ MongoDB 
 
 ### APIs
-⚙️ Yahoo Finance / Alpha Vantage / Finnhub  
+⚙️ Yahoo Finance 
 
 ---
 
@@ -47,5 +47,5 @@ Trade Engine enables users to monitor stock prices in real time, analyze market 
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/trade-engine.git
+git clone https://github.com/minalsalian/trade-engine.git
 cd trade-engine
